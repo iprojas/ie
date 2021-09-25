@@ -269,7 +269,7 @@ canvas.webgl {
   }
 }
 .section__title-number {
-  font-size: min(36vw, 24rem);
+  font-size: min(23vw,34rem);
 }
 .section__title-text {
   font-size: min(18vw, 12rem);
@@ -496,3 +496,7 @@ canvas.webgl {
   width: 100%;
   text-align: center;
 }
+section.section {
+  background-color:#fef1fd;
+}
+
