@@ -115,7 +115,8 @@ canvas.webgl {
   }
 }
 .section__title-number {
-  font-size: min(24vw, 24rem);
+    font-size: min(18vw, 24rem);
+    text-align: center;
 }
 h1.section__title-number::selection {
     background-color: black;
