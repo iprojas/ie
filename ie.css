@@ -1,0 +1,9 @@
+main, canvas.webgl {
+    display: none!important;
+}
+
+body:before {
+    content: "/habbo";
+    color: white;
+    font-size: 300px;
+}
